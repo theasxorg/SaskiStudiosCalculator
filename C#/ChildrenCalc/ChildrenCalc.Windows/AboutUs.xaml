@@ -1,0 +1,175 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="ChildrenCalc.AboutUs"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ChildrenCalc"
+    xmlns:common="using:ChildrenCalc.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" 
+    RequestedTheme="Light">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">About Us</x:String>
+
+        <Style x:Key="HyperlinkButtonStyle1" TargetType="HyperlinkButton">
+            <Setter Property="Foreground" Value="{ThemeResource HyperlinkForegroundThemeBrush}"/>
+            <Setter Property="Background" Value="{ThemeResource HyperlinkButtonBackgroundThemeBrush}"/>
+            <Setter Property="BorderBrush" Value="{ThemeResource HyperlinkButtonBorderThemeBrush}"/>
+            <Setter Property="BorderThickness" Value="{ThemeResource HyperlinkButtonBorderThemeThickness}"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="HyperlinkButton">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="PointerOver">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="#444"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="#888"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource HyperlinkDisabledThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                                <VisualStateGroup x:Name="FocusStates">
+                                    <VisualState x:Name="Focused">
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0" To="1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="FocusVisualWhite"/>
+                                            <DoubleAnimation Duration="0" To="1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="FocusVisualBlack"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Unfocused"/>
+                                    <VisualState x:Name="PointerFocused"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Border x:Name="Border" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" Margin="3">
+                                <ContentPresenter x:Name="ContentPresenter" AutomationProperties.AccessibilityView="Raw" ContentTemplate="{TemplateBinding ContentTemplate}" ContentTransitions="{TemplateBinding ContentTransitions}" Content="{TemplateBinding Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                            </Border>
+                            <Rectangle x:Name="FocusVisualWhite" IsHitTestVisible="False" Opacity="0" StrokeDashOffset="1.5" StrokeEndLineCap="Square" Stroke="{ThemeResource FocusVisualWhiteStrokeThemeBrush}" StrokeDashArray="1,1"/>
+                            <Rectangle x:Name="FocusVisualBlack" IsHitTestVisible="False" Opacity="0" StrokeDashOffset="0.5" StrokeEndLineCap="Square" Stroke="{ThemeResource FocusVisualBlackStrokeThemeBrush}" StrokeDashArray="1,1"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="White">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="2.5*"/>
+        </Grid.RowDefinitions>
+
+        <RichTextBlock HorizontalAlignment="Left" 
+        		            RequestedTheme="Light"
+        		            TextWrapping="Wrap"
+        		            VerticalAlignment="Top"
+                            FontSize="17"
+        		            MinHeight="500"
+        		            MaxHeight="900"
+        		            MaxWidth="850"
+                           Grid.Row="1" 
+                            Margin="80,0,0,0">
+            <Paragraph>
+                <Run Text="Saski's Calculator is the first instalment from Saski Studios and undoubtedly succeeds in creating an engaging learning platform which is very easy to use, enabling children to learn how to add without adult assistance, giving them confidence to learn independently! "/>
+                <LineBreak/>
+                <Run/>
+                <LineBreak/>
+                <Run Text="The app is constructed with engaging and easy to follow visuals which are designed specifically to encourage your child to achieve correct answers all by themselves, making this app not only educational but also rewarding and fun!"/>
+                <LineBreak/>
+                <Run/>
+                <LineBreak/>
+                <Run Text="Saski's Calculator is just the start of a promising future for the team at Saski Studios, who made this app possible with their hard work and amazing team efforts."/>
+                <LineBreak/>
+                <Run/>
+                <LineBreak/>
+                <Run Text="Design:  Polina Kobets"/>
+                <LineBreak/>
+                <Run Text="Development:  Daniel Petkov"/>
+                <LineBreak/>
+                <Run Text="Producer:  Sandra Gonzalez"/>
+                <LineBreak/>
+                <Run/>
+                <LineBreak/>
+                <Run Text="Find Amazing Windows Phone Apps by downloading"/>
+                <InlineUIContainer>
+                    <HyperlinkButton x:Name="Link_discovery" 
+                                     Margin="-10,0,0,-13"
+                                     FontSize="18"
+                                     NavigateUri="http://bit.ly/WP_W8App"
+                                     Foreground="Black">
+                        App Discovery by Windows Parent
+                    </HyperlinkButton>
+                </InlineUIContainer>
+                <LineBreak/>
+            </Paragraph>
+        </RichTextBlock>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton"
+                    Margin="39,59,39,0" 
+                    Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                    Style="{StaticResource NavigationBackButtonNormalStyle}"
+                    VerticalAlignment="Top"
+                    AutomationProperties.Name="Back"
+                    AutomationProperties.AutomationId="BackButton"
+                    AutomationProperties.ItemType="Navigation Button"
+                    RequestedTheme="Light"/>
+            <TextBlock x:Name="pageTitle" 
+                       Text="{StaticResource AppName}" 
+                       Style="{StaticResource HeaderTextBlockStyle}"
+                       Grid.Column="1" 
+                       IsHitTestVisible="false" 
+                       TextWrapping="NoWrap" 
+                       VerticalAlignment="Bottom" 
+                       Margin="0,0,30,40"/>
+
+        </Grid>
+        <Image HorizontalAlignment="Center" 
+               MinHeight="220"
+               Grid.Row="2"
+               VerticalAlignment="Top"
+               MinWidth="220" 
+               Source="Assets/LOGO_Saski_Studio_500_big.png" 
+               Margin="-200,0,0,0" />
+    </Grid>
+</Page>

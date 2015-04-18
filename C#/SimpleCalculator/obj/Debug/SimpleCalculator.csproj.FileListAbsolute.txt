@@ -1,0 +1,73 @@
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\Bin\Debug\ApplicationIcon.png
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\Bin\Debug\Background.png
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\Bin\Debug\SimpleCalculator.dll
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\Bin\Debug\SimpleCalculator.pdb
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\Bin\Debug\AppManifest.xaml
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\Bin\Debug\SimpleCalculator.xap
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\MainPage.g.cs
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Anwar Yahyaoui\Documents\Visual Studio 2012\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\XapCacheFile.xml
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\ApplicationIcon.png
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\Background.png
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\SimpleCalculator.dll
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\SimpleCalculator.pdb
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\AppManifest.xaml
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\SimpleCalculator_Debug_AnyCPU.xap
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\MainPage.g.cs
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\XapCacheFile.xml
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\resources.pri
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\AppxManifest.xml
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\Bin\Debug\SimpleCalculator.build.appxrecipe
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\priconfig.xml
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\layout.resfiles
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\resources.resfiles
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\pri.resfiles
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\qualifiers.txt
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\ProjectArchitectures.txt
+C:\Users\Daniel\Desktop\calc2\C#\SimpleCalculator\obj\Debug\MDILProjectFiles.xml
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\ApplicationIcon.png
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\Background.png
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\SimpleCalculator.dll
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\SimpleCalculator.pdb
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\resources.pri
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\AppxManifest.xml
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\SimpleCalculator.build.appxrecipe
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\AppManifest.xaml
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\SimpleCalculator_Debug_AnyCPU.xap
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\MainPage.g.cs
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\priconfig.xml
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\layout.resfiles
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\layout.resfiles.intermediate
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\resources.resfiles
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\pri.resfiles
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\qualifiers.txt
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\ProjectArchitectures.txt
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\MDILProjectFiles.xml
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\XapCacheFile.xml

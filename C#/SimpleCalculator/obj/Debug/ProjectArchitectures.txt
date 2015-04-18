@@ -1,0 +1,1 @@
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\SimpleCalculator.csproj;neutral

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="38f2f99f-c642-4292-9e03-217c3eec5028" Publisher="CN=Daniel" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>Saski Calculator</DisplayName>
+    <PublisherDisplayName>Daniel</PublisherDisplayName>
+    <Logo>Assets\LOGO_Saski_50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ChildrenCalc.Windows.App">
+      <m2:VisualElements DisplayName="Saski Calculator" Square150x150Logo="Assets\Saski_Calculator150.png" Square30x30Logo="Assets\SmallLogo.png" Description="Saski Calculator by Saski Studio" ForegroundText="light" BackgroundColor="white">
+        <m2:DefaultTile DefaultSize="square150x150Logo" ShortName="Saski Calculator" Wide310x150Logo="Assets\Wide310x150Logo.png">
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+            <m2:ShowOn Tile="wide310x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\LOGO_Saski_Studio_500.png" BackgroundColor="white" />
+        <m2:InitialRotationPreference>
+          <m2:Rotation Preference="landscape" />
+          <m2:Rotation Preference="landscapeFlipped" />
+        </m2:InitialRotationPreference>
+        <m2:ApplicationView MinWidth="width320" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
