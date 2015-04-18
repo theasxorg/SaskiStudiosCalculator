@@ -43,8 +43,15 @@
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.WindowsPhone\Assets\saski_favorits.png">
       <PackagePath>Assets\saski_favorits.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.WindowsPhone\Assets\Saski_logo_44x44.png">
+      <PackagePath>Assets\Saski_logo_44x44.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.WindowsPhone\Assets\saski_star.png">
       <PackagePath>Assets\saski_star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.WindowsPhone\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>

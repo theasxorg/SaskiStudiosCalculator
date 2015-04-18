@@ -211,9 +211,9 @@
                 </EasingDoubleKeyFrame>
             </DoubleAnimationUsingKeyFrames>
         </Storyboard>
-        
+
         <!--Style for app bar buttons-->
-       <Style x:Key="AppBarButtonStyle1" TargetType="AppBarButton">
+        <Style x:Key="AppBarButtonStyle1" TargetType="AppBarButton">
             <Setter Property="Foreground" Value="Black"/>
             <Setter Property="VerticalAlignment" Value="Top"/>
             <Setter Property="HorizontalAlignment" Value="Left"/>
@@ -323,8 +323,8 @@
                     <CompositeTransform ScaleX="1.4" ScaleY="1.4"/>
                 </AppBarButton.RenderTransform>
             </AppBarButton>
-            
-            
+
+
             <AppBarButton x:ConnectionId='2' Label="about us" 
                                           
                           RequestedTheme="Dark"
@@ -604,13 +604,14 @@
                      x:Name="first_hs" 
                      Grid.Row="4"
                      Grid.Column="0"
-                     Grid.ColumnSpan="7"
+                     Grid.ColumnSpan="8"
                      TextAlignment="Left"
-                     FontSize="65"
+                     FontSize="60"
                      Text="" 
+                     Visibility="Collapsed"
+                     Margin="-40,0,100,0" 
                      FontFamily="Assets/icomoon.ttf#icomoon"
-                     Visibility="Collapsed" 
-                     Foreground="#096bb2"/>
+                     Foreground="#096bb2" Grid.RowSpan="2"/>
 
             <TextBlock Style="{StaticResource textb_r}"
                      x:Name="second_hs" 
@@ -618,15 +619,15 @@
                      Grid.Column="0"
                      Grid.ColumnSpan="7"
                      TextAlignment="Left"
-                     FontSize="65"
-                     Text="" 
-                     FontFamily="Assets/icomoon.ttf#icomoon"
+                     FontSize="60"
+                     Text=""
                      Visibility="Collapsed"
+                     FontFamily="Assets/icomoon.ttf#icomoon"
                      Foreground="#b21512" 
-                     Margin="0,53,0,56" 
-                     Grid.RowSpan="4"/>
+                     Margin="-40,60,100,-40" 
+                     Grid.RowSpan="2"/>
 
-            
+
             <!--Make a + TextBlock that shows with the other two-->
             <Button Style="{StaticResource button_r}"
                     Content="0"
@@ -634,20 +635,20 @@
                     Grid.Row="6"
                     FontFamily="Assets/saski.ttf#Saski"
                     FontWeight="Normal"
-                    FontSize="60"
+                    FontSize="55"
                     x:Name="main_hs_copy"
                     Foreground="Black"
                     Visibility="Collapsed"
                     Canvas.ZIndex="-5"
                     Template="{StaticResource ButtonControlTemplate1}"/>
-            
+
             <Button x:ConnectionId='17' Style="{StaticResource button_r}"
                     Content="0"
                     Grid.Column="6"
                     Grid.Row="6"
                     FontFamily="Assets/saski.ttf#Saski"
                     FontWeight="Normal"
-                    FontSize="60"
+                    FontSize="55"
                     Opacity="0.6"
                                            
                     x:Name="main_hs_button"

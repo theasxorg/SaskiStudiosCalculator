@@ -90,7 +90,9 @@
     <Content Include="Assets\LOGO_Saski_Studio_500.png" />
     <Content Include="Assets\LOGO_Saski_Studio_500_big.png" />
     <Content Include="Assets\saski_favorits.png" />
+    <Content Include="Assets\Saski_logo_44x44.png" />
     <Content Include="Assets\saski_star.png" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
     <Content Include="Assets\SplashScreen.scale-100.png" />
     <Content Include="Assets\SplashScreen.scale-140.png" />
     <Content Include="Assets\SplashScreen.scale-240.png" />
