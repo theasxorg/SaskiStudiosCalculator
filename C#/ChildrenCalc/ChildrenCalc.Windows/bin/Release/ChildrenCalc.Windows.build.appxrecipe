@@ -28,6 +28,18 @@
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_50x50.scale-100.png">
       <PackagePath>Assets\LOGO_Saski_50x50.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -60,11 +72,66 @@
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski_favorits.png">
       <PackagePath>Assets\saski_favorits.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski_favorits_circle.png">
+      <PackagePath>Assets\saski_favorits_circle.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski_star.png">
       <PackagePath>Assets\saski_star.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski_star_circle.png">
+      <PackagePath>Assets\saski_star_circle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SquareTile150x150.png">
       <PackagePath>Assets\SquareTile150x150.png</PackagePath>
@@ -75,12 +142,33 @@
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\WideLogo_saski_310x150.png">
+      <PackagePath>Assets\WideLogo_saski_310x150.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Background.png">
       <PackagePath>Background.png</PackagePath>

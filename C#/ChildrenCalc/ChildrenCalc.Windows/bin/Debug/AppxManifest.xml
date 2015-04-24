@@ -22,7 +22,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="ChildrenCalc.Windows.exe" EntryPoint="ChildrenCalc.Windows.App">
-      <m2:VisualElements DisplayName="Saski Calculator" Square150x150Logo="Assets\Saski_Calculator150.png" Square30x30Logo="Assets\SmallLogo.png" Description="Saski Calculator by Saski Studio" ForegroundText="light" BackgroundColor="white">
+      <m2:VisualElements DisplayName="Saski Calculator" Square150x150Logo="Assets\Saski_Calculator150.png" Square30x30Logo="Assets\SmallLogo.png" Description="Saski Calculator by Saski Studio" ForegroundText="dark" BackgroundColor="white">
         <m2:DefaultTile DefaultSize="square150x150Logo" ShortName="Saski Calculator" Wide310x150Logo="Assets\Wide310x150Logo.png">
           <m2:ShowNameOnTiles>
             <m2:ShowOn Tile="square150x150Logo" />
@@ -44,7 +44,7 @@
   <build:Metadata>
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v4.5.1" />
     <build:Item Name="VisualStudio" Version="12.0" />
-    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2013" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Ultimate 2013" />
     <build:Item Name="OperatingSystem" Version="6.3.9600.16384 (winblue_rtm.130821-1623)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.31101.0" />
     <build:Item Name="ProjectGUID" Value="{B8B76420-78D7-4DA2-8D42-4554415205D1}" />
