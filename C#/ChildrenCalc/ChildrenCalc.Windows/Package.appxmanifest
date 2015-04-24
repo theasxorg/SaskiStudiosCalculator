@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ChildrenCalc.Windows.App">
-      <m2:VisualElements DisplayName="Saski Calculator" Square150x150Logo="Assets\Saski_Calculator150.png" Square30x30Logo="Assets\SmallLogo.png" Description="Saski Calculator by Saski Studio" ForegroundText="light" BackgroundColor="white">
+      <m2:VisualElements DisplayName="Saski Calculator" Square150x150Logo="Assets\Saski_Calculator150.png" Square30x30Logo="Assets\SmallLogo.png" Description="Saski Calculator by Saski Studio" ForegroundText="dark" BackgroundColor="white">
         <m2:DefaultTile DefaultSize="square150x150Logo" ShortName="Saski Calculator" Wide310x150Logo="Assets\Wide310x150Logo.png">
           <m2:ShowNameOnTiles>
             <m2:ShowOn Tile="square150x150Logo" />

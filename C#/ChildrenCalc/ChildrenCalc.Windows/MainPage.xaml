@@ -8,7 +8,7 @@
     mc:Ignorable="d">
 
     <Page.Resources>
-
+<!--C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\MainPage.xaml-->
         <!--Border style info-->
         <Style TargetType="Border" x:Key="border_r">
             <Setter Property="Background" Value="{x:Null}"/>
