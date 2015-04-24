@@ -4,7 +4,7 @@
   <mp:PhoneIdentity PhoneProductId="7a4c14e0-a3c6-4b59-b143-9dcce1ce176b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Saski Calculator</DisplayName>
-    <PublisherDisplayName>Daniel</PublisherDisplayName>
+    <PublisherDisplayName>WPParent</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Prerequisites>

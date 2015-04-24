@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DANIEL</Machine>
-    <WindowsUser>Daniel</WindowsUser>
+    <Machine>SANDRA</Machine>
+    <WindowsUser>sandragonzalez</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>38f2f99f-c642-4292-9e03-217c3eec5028</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\obj\Release\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>E0CE30EF20C5EB0EB4AC9C42F6D68DDA9A9DB5ED17D769747EB1E2534D9AD1B7</RegisteredManifestChecksum>
+    <IntermediateOutputPath>C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>94288D71A80A5989AA955F30292C75C152177F1908B1CD9442DEE87E1E0B050B</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>38f2f99f-c642-4292-9e03-217c3eec5028_1.0.0.0_neutral__4jdacjwc0e74a</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>38f2f99f-c642-4292-9e03-217c3eec5028_4jdacjwc0e74a!App</RegisteredUserModeAppID>
     <RegisteredPackageID>38f2f99f-c642-4292-9e03-217c3eec5028</RegisteredPackageID>
@@ -17,130 +17,134 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-16T15:10:18.917</Modified>
+      <Modified>2015-04-23T22:32:33.716</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\ChildrenCalc.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\ChildrenCalc.Windows.exe">
       <PackagePath>ChildrenCalc.Windows.exe</PackagePath>
-      <Modified>2015-04-16T15:13:05.571</Modified>
+      <Modified>2015-04-23T22:32:33.317</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\ApplicationIcon.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\ApplicationIcon.png">
       <PackagePath>ApplicationIcon.png</PackagePath>
-      <Modified>2015-03-05T09:31:10.246</Modified>
+      <Modified>2015-04-23T21:48:04.681</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\BadgeLogo.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\BadgeLogo.png">
       <PackagePath>Assets\BadgeLogo.png</PackagePath>
-      <Modified>2015-03-05T09:30:52.999</Modified>
+      <Modified>2015-04-23T21:48:04.684</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
-      <Modified>2015-03-05T09:30:53.000</Modified>
+      <Modified>2015-04-23T21:48:04.708</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_50x50.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_50x50.scale-100.png">
       <PackagePath>Assets\LOGO_Saski_50x50.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-16T11:45:49.850</Modified>
+      <Modified>2015-04-23T21:48:04.686</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_Studio_500.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_Studio_500.scale-100.png">
       <PackagePath>Assets\LOGO_Saski_Studio_500.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-02T09:39:06.603</Modified>
+      <Modified>2015-04-23T21:48:04.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_Studio_500.scale-140.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_Studio_500.scale-140.png">
       <PackagePath>Assets\LOGO_Saski_Studio_500.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-02T09:39:53.540</Modified>
+      <Modified>2015-04-23T21:48:04.697</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_Studio_500.scale-180.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_Studio_500.scale-180.png">
       <PackagePath>Assets\LOGO_Saski_Studio_500.scale-180.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-02T09:40:39.620</Modified>
+      <Modified>2015-04-23T21:48:04.703</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Saski_Calculator+336x336.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\LOGO_Saski_Studio_500_big.png">
+      <PackagePath>Assets\LOGO_Saski_Studio_500_big.png</PackagePath>
+      <Modified>2015-04-23T21:48:04.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Saski_Calculator+336x336.png">
       <PackagePath>Assets\Saski_Calculator+336x336.png</PackagePath>
-      <Modified>2015-04-16T10:35:36.910</Modified>
+      <Modified>2015-04-23T21:48:04.711</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Saski_calculator+691x336.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Saski_calculator+691x336.png">
       <PackagePath>Assets\Saski_calculator+691x336.png</PackagePath>
-      <Modified>2015-04-16T10:35:40.042</Modified>
+      <Modified>2015-04-23T21:48:04.717</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Saski_Calculator150.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Saski_Calculator150.scale-100.png">
       <PackagePath>Assets\Saski_Calculator150.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-16T11:38:06.900</Modified>
+      <Modified>2015-04-23T21:48:04.713</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski_favorits.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski_favorits.png">
       <PackagePath>Assets\saski_favorits.png</PackagePath>
-      <Modified>2015-04-16T11:21:27.535</Modified>
+      <Modified>2015-04-23T21:48:04.796</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski_star.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski_star.png">
       <PackagePath>Assets\saski_star.png</PackagePath>
-      <Modified>2015-04-16T11:22:37.288</Modified>
+      <Modified>2015-04-23T21:48:04.801</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
-      <Modified>2015-03-05T09:30:53.001</Modified>
+      <Modified>2015-04-23T21:48:04.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SquareTile150x150.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SquareTile150x150.png">
       <PackagePath>Assets\SquareTile150x150.png</PackagePath>
-      <Modified>2015-03-05T09:30:53.002</Modified>
+      <Modified>2015-04-23T21:48:04.721</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SquareTile71x71.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\SquareTile71x71.png">
       <PackagePath>Assets\SquareTile71x71.png</PackagePath>
-      <Modified>2015-03-05T09:30:53.048</Modified>
+      <Modified>2015-04-23T21:48:04.723</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
-      <Modified>2015-04-16T11:49:09.173</Modified>
+      <Modified>2015-04-23T21:48:04.725</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-16T11:53:49.634</Modified>
+      <Modified>2015-04-23T21:48:04.774</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\WideLogo.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
-      <Modified>2015-03-05T09:30:53.050</Modified>
+      <Modified>2015-04-23T21:48:04.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Background.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Background.png">
       <PackagePath>Background.png</PackagePath>
-      <Modified>2015-03-05T09:31:10.248</Modified>
+      <Modified>2015-04-23T21:48:04.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\SplashScreenImage.jpg">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\SplashScreenImage.jpg">
       <PackagePath>SplashScreenImage.jpg</PackagePath>
-      <Modified>2015-03-05T09:31:13.381</Modified>
+      <Modified>2015-04-23T21:48:04.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski.ttf">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\saski.ttf">
       <PackagePath>Assets\saski.ttf</PackagePath>
-      <Modified>2015-03-10T14:21:40.000</Modified>
+      <Modified>2015-04-23T21:48:04.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\icomoon.ttf">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\Assets\icomoon.ttf">
       <PackagePath>Assets\icomoon.ttf</PackagePath>
-      <Modified>2015-02-18T20:04:38.000</Modified>
+      <Modified>2015-04-23T21:48:04.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\App.xbf">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2015-04-16T14:19:33.212</Modified>
+      <Modified>2015-04-23T22:32:32.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\AboutUs.xbf">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\AboutUs.xbf">
       <PackagePath>AboutUs.xbf</PackagePath>
-      <Modified>2015-04-16T14:19:33.212</Modified>
+      <Modified>2015-04-23T22:32:32.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-04-16T15:13:05.288</Modified>
+      <Modified>2015-04-23T22:32:32.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\ChildrenCalc.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\ChildrenCalc.Windows.xr.xml">
       <PackagePath>ChildrenCalc.Windows.xr.xml</PackagePath>
-      <Modified>2015-04-16T15:12:19.180</Modified>
+      <Modified>2015-04-23T22:32:32.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.Windows\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-16T15:10:18.717</Modified>
+      <Modified>2015-04-23T22:32:33.512</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -1,60 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DANIEL</Machine>
-    <WindowsUser>Daniel</WindowsUser>
+    <Machine>SANDRA</Machine>
+    <WindowsUser>sandragonzalez</WindowsUser>
     <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>f59a8db3-0006-4152-b7e1-35aa174ac023</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\SimpleCalculator.dll">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\SimpleCalculator.dll">
       <PackagePath>SimpleCalculator.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\ApplicationIcon.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\ApplicationIcon.png">
       <PackagePath>ApplicationIcon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\BadgeLogo.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\BadgeLogo.png">
       <PackagePath>Assets\BadgeLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\SquareTile150x150.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\SquareTile150x150.png">
       <PackagePath>Assets\SquareTile150x150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\SquareTile71x71.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\SquareTile71x71.png">
       <PackagePath>Assets\SquareTile71x71.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\WideLogo.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Background.png">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Background.png">
       <PackagePath>Background.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\SplashScreenImage.jpg">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\SplashScreenImage.jpg">
       <PackagePath>SplashScreenImage.jpg</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\SimpleCalculator\Bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
