@@ -1,1 +1,1 @@
-C:\Users\sandragonzalez\Documents\GitHub\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.WindowsPhone\ChildrenCalc.WindowsPhone.csproj;neutral
+C:\Users\Daniel\Desktop\SaskiStudiosCalculator\C#\ChildrenCalc\ChildrenCalc.WindowsPhone\ChildrenCalc.WindowsPhone.csproj;neutral
